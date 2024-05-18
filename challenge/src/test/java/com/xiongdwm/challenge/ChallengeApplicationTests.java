@@ -1,10 +1,10 @@
-package com.xiongdwm.challenge.demo;
+package com.xiongdwm.challenge;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class ChallengeApplicationTests {
 
 	@Test
 	void contextLoads() {
